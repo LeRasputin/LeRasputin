@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeRasputin
+- 👀 I’m interested in coding for games
+- 🌱 I’m currently learning C++ C# and LUA
+- 💞️ I’m looking to collaborate on Hoi4 games
+- 📫 How to reach me discord Rasputin#4976
